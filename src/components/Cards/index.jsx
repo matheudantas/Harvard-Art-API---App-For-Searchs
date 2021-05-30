@@ -11,6 +11,7 @@ import CardMedia from "@material-ui/core/CardMedia";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
 import notImagesFound from "../../assets/images/notImagesFound.png";
+import LinearIndeterminate from "../LinearIndeterminate";
 
 const useStyles = makeStyles({
   root: {
@@ -40,7 +41,7 @@ const Cards = () => {
 
   return (
     <>
-      {load &&
+      {load ? (
         imageClassification[0]?.map((i) => (
           <Card className={classes.root}>
             <CardActionArea href={i.url} target="_blank" rel="noopener">
@@ -83,7 +84,10 @@ const Cards = () => {
               </Button>
             </CardActions>
           </Card>
-        ))}
+        ))
+      ) : (
+        <LinearIndeterminate />
+      )}
     </>
   );
 };
