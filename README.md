@@ -20,6 +20,9 @@ Testes de integração foram realizados em Cypress
 ## Licença
 MIT
 
+## Deploy no Vercel
+https://harvard-art-api-app-for-searchs.vercel.app/
+
 ## Autor
 <a href="https://blog.rocketseat.com.br/author/thiago/">
  <img style="border-radius: 100% !important;" src="https://avatars.githubusercontent.com/matheudantas" width="150px;" alt=""/>
