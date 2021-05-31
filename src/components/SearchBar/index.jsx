@@ -18,7 +18,7 @@ const SearchBar = () => {
     <div style={{ width: 300 }}>
       <Autocomplete
         freeSolo
-        id="free-solo-2-demo"
+        id="search-bar-classifications"
         value={value}
         disableClearable
         options={load && classifications.map((i) => i.name)}
