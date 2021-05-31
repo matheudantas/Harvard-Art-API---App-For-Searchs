@@ -30,5 +30,5 @@ Feito por Matheus Dantas 🤗
 <br/>
 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheudantas/)](https://www.linkedin.com/in/matheudantas/) 
+[![Linkedin Badge](https://img.shields.io/badge/-MatheusDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheudantas/)](https://www.linkedin.com/in/matheudantas/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheus.7dantas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.7dantas@gmail.com)](mailto:matheus.7dantas@gmail.com)
